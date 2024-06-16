@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+header {
+background-color: #ef579d;
+color: white;
+padding: 1em 0;
+text-align: center;
+}
+
+nav {
+background-color: #ff1493;
+padding: 1em;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 0 1em;
+text-decoration: none;
+}
+
+main {
+padding: 2em;
+text-align: center;
+}
+
+table {
+margin: 0 auto;
+border-collapse: collapse;
+}
+
+table, th, td {
+border: 1px solid #ddd;
+padding: 1em;
+}
